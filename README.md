@@ -7,7 +7,10 @@
 
   Login & SignIn screen prototype <b>ONLY FRONTEND</b><br>
   To developers that need a basic frontend Login and Sign In Screen, to copy and speed up your work.
-  
+ 
+# Photos
+## -------------Login Screen-------------------------Sign In Screen
+![Login Screen](https://github.com/Renzo-M/Assets/blob/main/Login%20Page.png)![Sign In Screen](https://github.com/Renzo-M/Assets/blob/main/Sign%20in%20Page.png)
 
 # Permissions
 Free to copy and fork
