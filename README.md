@@ -1,12 +1,12 @@
-# Login SignUp Screen Prototype
+# Login SignIn Screen Prototype
 ![GitHub](https://img.shields.io/github/license/Renzo-M/Login_SignUp_Screen_Prototype)
 ![Github](https://img.shields.io/badge/Renzo--M-Login%20%26%20Sign%20Up%20Screen%20Prototype-blue)
 ![Github](https://img.shields.io/badge/Dart-Flutter-blue)
 
 # About the project
 
-  Login & SignUp screen prototype <b>ONLY FRONTEND</b><br>
-  To developers that need a basic frontend Login and Sign Up Screen, to copy and speed up your work.
+  Login & SignIn screen prototype <b>ONLY FRONTEND</b><br>
+  To developers that need a basic frontend Login and Sign In Screen, to copy and speed up your work.
   
 
 # Permissions
