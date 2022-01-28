@@ -22,4 +22,9 @@ Type of the license: <b>MIT</b><br>
 </div>
 
 ## Back-end
-<b>No backend</>
+<b>No backend</b>
+
+# Author
+Renzo-M
+  
+  
